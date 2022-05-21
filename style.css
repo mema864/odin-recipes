@@ -1,0 +1,19 @@
+h1{
+    color: red;
+    text-align: center;
+}
+
+h2{
+    color: palevioletred;
+    background-color: black;
+}
+
+ul{
+    color: blue;
+    background-color: antiquewhite;
+}
+
+ol{
+    color:aqua;
+    background-color: black;
+}
